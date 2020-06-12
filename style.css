@@ -61,3 +61,6 @@ body {
     color: #ED6D05;
     font-weight: normal;
 }
+.special--irony {
+    font-style: italic; 
+}
